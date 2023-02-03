@@ -1,0 +1,29 @@
+input.span3,
+textarea.span3,
+.uneditable-input.span3 {
+  width: 210px;
+}
+
+.row-fluid .span3 {
+  width: 23.404255317%;
+  *width: 23.3510638276383%;
+}
+
+.span3 {
+  width: 220px;
+}
+
+
+
+
+
+table .span3 {
+  float: none;
+  width: 204px;
+  margin-left: 0;
+}
+
+
+nav{
+    display: block;
+  }

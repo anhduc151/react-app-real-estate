@@ -1,0 +1,82 @@
+.navbar .navbar-brand {
+    font-size: 1025px ;
+    font-family: 'Anton', sans-serif;
+    color: var(--main-color);
+}
+
+.navbar .navbar-brand span {
+    color: var(--second-color);
+}
+
+.navbar .nav-item {
+    margin: auto;
+}
+
+.navbar .nav-item .nav-link {
+    color: var(--text-color);
+    font-weight: 500;
+    padding: 10px 20px;
+    transition: .5s ease;
+}
+
+.btn-custom {
+    color: var(--main-color);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.btn-custom:hover {
+    color: var(--second-color);
+}
+
+.hero-btn-text {
+    font-size: 25px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+.btn {
+    border: 1px solid var(--main-color);
+    box-shadow: none;
+    border-radius: 30px 0 30px 0;
+    background: none;
+    padding: 10px 60px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+    color: var(--main-color);
+    transition: .8s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.btn:hover,
+.btn:focus {
+    color: #fff;
+}
+
+.btn::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: var(--main-color);
+    z-index: -1;
+    transition: .8s;
+    top: 0;
+    border-radius: 0 0 50% 50%;
+}
+
+.btn:hover:before {
+    height: 180%;
+}
+
+.navbar .nav-item .nav-link.active {
+    color: var(--second-color);
+}
+
+.navbar .nav-item .nav-link:hover {
+    color: var(--second-color);
+}

@@ -1,0 +1,56 @@
+[
+    {   
+        "id": 1,
+        "name": "Vạn Phú Shophouse Đại Từ",
+        "price": 3000000000,
+        "about": "Căn hộ, chung cư Chúng tôi tự hào giới thiệu Ngôi nhà Vạn Phú Shophouse Đại Từ cho Thị trường bất động sản. Một phòng ngủ tuyệt vời này căn hộ được trình bày trong tình trạng hoàn hảo",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    },
+    {   
+        "id": 2,
+        "name": "Khu đô thị Cao Xanh-Hà Khánh",
+        "price": 10000000000,
+        "about": "Nhà bậc thang Dự án khu đô thị Cao Xanh - Hà Khánh có diện tích hơn 93ha, thuộc quy hoạch phân khu xung quanh vịnh Cửa Lục của các xã phía Nam huyện Hoành Bồ trước đây, nay là TP. Hạ Long, tỉnh Quảng Ninh",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    },
+    {
+        "id": 3,
+        "name": "Suntec City Long An",
+        "price": 15000000000,
+        "about": "Nhà đôi Suntec City là dự án khu đô thị kiểu mẫu khép kín ven sông do chủ đầu tư Novaland phát triển tại trung tâm huyện Thủ Thừa, tỉnh Long An.",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    },
+    {
+        "id": 4,
+        "name": "Khu đô thị Ao Tiên Vân Đồn",
+        "price": 6000000000,
+        "about": "Căn hộ, chung cư Khu đô thị Ao Tiên Vân Đồn là một trong những dự án khu đô thị mặt biển nổi bật nhất của khu kinh tế Vân Đồn, huyện Vân Đồn, tỉnh Quảng Ninh, với quy mô 115ha, vị trí đắc địa ngay đường ra cảng Ao Tiên. Dự án Ao Tiên Vân Đồn do Công ty TNHH MTV Du lịch Mai Quyền làm chủ đầu tư.",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    },
+    {
+        "id": 5,
+        "name": "Ruby Residence Ngã Bảy",
+        "price": 7500000000,
+        "about": "Căn hộ, chung cư Ruby Residence là tên thương mại của dự án Khu đô thị Nông Thôn Mới nâng cao Đại Thành tại trung tâm TP. Ngã Bảy, tỉnh Hậu Giang.",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    },
+    {
+        "id": 6,
+        "name": "Ruby Residence Ngã Bảy",
+        "price": 7500000000,
+        "about": "Căn hộ, chung cư Ruby Residence là tên thương mại của dự án Khu đô thị Nông Thôn Mới nâng cao Đại Thành tại trung tâm TP. Ngã Bảy, tỉnh Hậu Giang.",
+        "m2": "56",
+        "bedroom": "4",
+        "bathroom": "1"
+    }
+]

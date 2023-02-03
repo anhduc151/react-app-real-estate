@@ -1,0 +1,59 @@
+body {
+  background-color: var(--bg-section-cl);
+}
+
+.row {
+  margin-left: 25%;
+  display: flex;
+  height: 100%;
+  padding-top: 10%;
+}
+
+.row1 {
+  padding-top: 100px;
+  padding-left: 10%;
+  display: grid;
+}
+
+.row1__logo {
+  height: 106px;
+  margin: -28px;
+}
+
+.row2__form {
+  display: grid;
+}
+
+.row2__input {
+  margin: 2%;
+}
+
+.row2__btn {
+  background-color: #1877f2 !important;
+  margin: 2%;
+}
+
+.row2__link {
+  margin-top: 16px !important;
+  text-align: center;
+}
+
+.row2__sha {
+  border-bottom: 1px solid #dadde1;
+
+  margin: 20px 16px !important;
+
+  text-align: center;
+}
+
+.row2__btnnew {
+  margin: auto;
+}
+
+.Paper {
+  max-width: 50%;
+}
+
+.row2__lastfirst {
+  display: flex !important;
+}

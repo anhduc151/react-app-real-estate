@@ -1,0 +1,60 @@
+.mortgage-calc {
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    background: var(--bg-color);
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.mortgage-container {
+    padding-top: 50px;
+    background: var(--main-color);
+    border-radius: 0px 30px 0px 30px;
+}
+
+.mortgage-container h2 {
+    padding-bottom: 50px;
+    font-size: 1.8rem;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.mortgage-text-container h2{
+    color: var(--main-color);
+}
+
+
+.mortgage-container p {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container .move-from-right .text-center .title{
+    color: var(--main-color);
+}
+
+.mortgage-container input[type="number"] {
+    border: none;
+    appearance: none;
+    width: 150px;
+    padding-left: 5px;
+    margin-right: 10px;
+}
+
+.mortgage-text-container {
+    width: 100%;
+    height: auto;
+    background: #fff;
+    z-index: 1;
+    border-radius: 30px 0 30px 0;
+}
+
+.payment {
+    background-color: #fff;
+    color: var(--text-color);
+    margin-bottom: 20px;
+    border-radius: 30px 0 30px 0;
+    font-size: 20px;
+}

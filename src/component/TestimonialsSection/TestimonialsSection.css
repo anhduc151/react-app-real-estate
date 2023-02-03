@@ -1,0 +1,13 @@
+.testimonials-header h2 {
+    color: var(--text-color);
+    font-size: 35px;
+}
+
+.testimonials-card-body span {
+    color: var(--text-color);
+}
+
+.testimonials-card-body .icons {
+    margin-top: 40px;
+    color: gold;
+}
